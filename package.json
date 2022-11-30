@@ -1,5 +1,5 @@
 {
-  "name": "@oran9e/three-mcmodel",
+  "name": "@sceat/three-mcmodel",
   "version": "0.0.8",
   "description": "Minecraft model loader for threejs",
   "homepage": "https://github.com/OrangeUtan/three-mcmodel",

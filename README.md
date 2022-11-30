@@ -10,7 +10,7 @@ Minecraft model loader for [threejs](https://threejs.org/)
 ## Install
 
 ``` shell
-npm install @oran9e/three-mcmodel
+npm install @sceat/three-mcmodel
 ```
 
 ## Use
