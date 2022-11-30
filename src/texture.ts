@@ -72,8 +72,6 @@ export class MinecraftTextureLoader extends THREE.Loader {
     }
 
     private hasValidDimensions(image: HTMLImageElement) {
-        return (
-            Math.log2(image.width) % 1 === 0 && image.height % image.width === 0
-        )
+        return true
     }
 }
